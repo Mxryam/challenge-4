@@ -30,3 +30,12 @@ img{
     display:block;
    
 }
+
+.info:link ,.info:visited  {
+    color:black;
+}
+
+.info:hover, .info:active{
+    text-decoration: none;
+}
+
