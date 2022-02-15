@@ -48,3 +48,19 @@ img{
 .product-list{
     list-style: square;
 }
+
+.button:hover{
+    background-color:#ffffff;
+    color:black;
+ 
+ }
+ 
+ 
+ .button{
+    background-color:black;
+    border:none;
+     color:white;
+     text-transform:uppercase ;
+      cursor:pointer;
+ 
+ }
