@@ -16,3 +16,11 @@ body{
 .price{
     font-size:24px;
 }
+
+.shopping{
+    font-size:12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:gray;
+}
+
