@@ -5,3 +5,10 @@ body{
      border:2px solid black;
    
 }
+
+.title{
+    text-align: center;
+    font-size: 20px;
+    background-color: #f7f7f7;
+
+}
